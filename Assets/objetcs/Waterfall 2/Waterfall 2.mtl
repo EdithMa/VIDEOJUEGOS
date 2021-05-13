@@ -1,0 +1,24 @@
+newmtl kemuri
+Ka 0.972549 0.972549 0.972549
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka kemuri.png
+map_Kd kemuri.png
+map_d kemuri.png
+newmtl taki
+Ka 0.972549 0.972549 0.972549
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka taki.png
+map_Kd taki.png
+map_d taki.png
+newmtl taki_top
+Ka 0.972549 0.972549 0.972549
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka taki_top.png
+map_Kd taki_top.png
+map_d taki_top.png
