@@ -38,8 +38,9 @@
   <ItemGroup>
      <Compile Include="Assets\Codigos\logicaPies.cs" />
      <Compile Include="Assets\Codigos\LogicaPersonaje1.cs" />
-     <Compile Include="Assets\Codigos\moverConPiso.cs" />
      <Compile Include="Assets\Codigos\colision.cs" />
+     <Compile Include="Assets\Codigos\moverConPiso.cs" />
+     <Compile Include="Assets\Codigos\reset.cs" />
      <None Include="Assets\objetcs\Servine\Tag.txt" />
      <None Include="Assets\FantasyEnvironments\Environments\README.txt" />
     <Reference Include="UnityEngine">

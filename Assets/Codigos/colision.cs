@@ -41,7 +41,7 @@ public class colision : MonoBehaviour
             barraVida.fillAmount = vida/100;
             if(vida <= 0)
             {
-                SceneManager.LoadScene(1);
+                SceneManager.LoadScene(2);
             }
         }
     }
