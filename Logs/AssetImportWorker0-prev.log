@@ -16,11 +16,19 @@ C:/Users/charl/Documents/workspace-spring-tool-suite-4-4.6.1.RELEASE/VIDEOJUEGOS
 Logs/AssetImportWorker0.log
 -srvPort
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 55104
 Successfully changed project path to: C:/Users/charl/Documents/workspace-spring-tool-suite-4-4.6.1.RELEASE/VIDEOJUEGOS
 C:/Users/charl/Documents/workspace-spring-tool-suite-4-4.6.1.RELEASE/VIDEOJUEGOS
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 44.82 ms, found 0 plugins.
+=======
+52463
+Successfully changed project path to: C:/Users/charl/Documents/workspace-spring-tool-suite-4-4.6.1.RELEASE/VIDEOJUEGOS
+C:/Users/charl/Documents/workspace-spring-tool-suite-4-4.6.1.RELEASE/VIDEOJUEGOS
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 33.46 ms, found 0 plugins.
+>>>>>>> Stashed changes
 =======
 52463
 Successfully changed project path to: C:/Users/charl/Documents/workspace-spring-tool-suite-4-4.6.1.RELEASE/VIDEOJUEGOS
@@ -44,7 +52,11 @@ Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56468
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56648
+>>>>>>> Stashed changes
 =======
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56648
 >>>>>>> Stashed changes
@@ -54,23 +66,30 @@ Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/E
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Registered in 0.004526 seconds.
 Native extension for Lumin target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 26.99 ms, found 0 plugins.
 =======
+=======
+>>>>>>> Stashed changes
 Registered in 0.004214 seconds.
 Native extension for Lumin target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 28.58 ms, found 0 plugins.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 - Completed reload, in  1.456 seconds
 Platform modules already initialized, skipping
@@ -82,12 +101,22 @@ Platform modules already initialized, skipping
 Registering precompiled user dll's ...
 Registered in 0.001077 seconds.
 >>>>>>> Stashed changes
+=======
+- Completed reload, in  1.497 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001077 seconds.
+>>>>>>> Stashed changes
 Begin MonoManager ReloadAssembly
 Native extension for Lumin target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+=======
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+>>>>>>> Stashed changes
 =======
 Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
 >>>>>>> Stashed changes
@@ -96,6 +125,7 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 - Completed reload, in  1.397 seconds
 Platform modules already initialized, skipping
@@ -380,6 +410,12 @@ Total: 3.007300 ms (FindLiveObjects: 0.140300 ms CreateObjectMapping: 0.037900 m
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
+=======
+- Completed reload, in  1.052 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+>>>>>>> Stashed changes
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
 Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
@@ -389,6 +425,7 @@ System memory in use after: 70.5 MB.
 
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1579.
 Total: 2.616600 ms (FindLiveObjects: 0.364100 ms CreateObjectMapping: 0.056400 ms MarkObjects: 2.046300 ms  DeleteObjects: 0.148400 ms)
+<<<<<<< Updated upstream
 
 ========================================================================
 Received Import Request.
@@ -439,18 +476,77 @@ Start importing Assets/Personaje1/Brendan@Standing Idle.fbx using Guid(aa8b9f43b
 
 ========================================================================
 Received Import Request.
+=======
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(7816de0f456c6e94dac9a1086eb3609c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(7816de0f456c6e94dac9a1086eb3609c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac7fb1afb1be98c12a2b245a167960d5') in 0.007943 seconds
+  Import took 0.028771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.750444 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23fa0e124ca12e15f1b0f1450ebefc53') in 0.022359 seconds
+  Import took 0.025239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.795946 seconds.
+  path: Assets/Scenes/New Scene.unity
+  artifactKey: Guid(cad4e0580b17ebd48be739dde8b3105f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New Scene.unity using Guid(cad4e0580b17ebd48be739dde8b3105f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71efb4274dfed662809c013850f78260') in 0.009786 seconds
+  Import took 0.012546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.421771 seconds.
+  path: Assets/Personaje1/Brendan.fbx
+  artifactKey: Guid(571cd20c2118fde429462b05fde344a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje1/Brendan.fbx using Guid(571cd20c2118fde429462b05fde344a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '259e96cd12c78d0710418879fea988de') in 0.699147 seconds
+  Import took 0.716634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Personaje1/Brendan@Running.fbx
+  artifactKey: Guid(b8f2ada33d8c77c4abbef43c82e02c1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje1/Brendan@Running.fbx using Guid(b8f2ada33d8c77c4abbef43c82e02c1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '362118139a3a49868c8ba3f0a0efde37') in 0.193443 seconds
+  Import took 0.197799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Personaje1/Brendan@Standing Idle.fbx
+  artifactKey: Guid(aa8b9f43b87c3cb4dab44750665f7073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje1/Brendan@Standing Idle.fbx using Guid(aa8b9f43b87c3cb4dab44750665f7073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df18fbe4e0bac3a2e5f99832eb239849') in 0.088293 seconds
+  Import took 0.105088 seconds .
+
+========================================================================
+Received Import Request.
+>>>>>>> Stashed changes
   Time since last request: 0.000375 seconds.
   path: Assets/Personaje1/Brendan@Left Strafe.fbx
   artifactKey: Guid(976376aa0f5f87f4398c05a087a653f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Personaje1/Brendan@Left Strafe.fbx using Guid(976376aa0f5f87f4398c05a087a653f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96df4da5230d9b582d95497c1bf29b41') in 0.145732 seconds
   Import took 0.149307 seconds .
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Registered in 0.001358 seconds.
+=======
+Registered in 0.002042 seconds.
+>>>>>>> Stashed changes
 =======
 Registered in 0.002042 seconds.
 >>>>>>> Stashed changes
@@ -459,7 +555,11 @@ Native extension for Lumin target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+=======
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+>>>>>>> Stashed changes
 =======
 Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
 >>>>>>> Stashed changes
@@ -468,6 +568,7 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 - Completed reload, in  1.097 seconds
 Platform modules already initialized, skipping
@@ -1079,6 +1180,18 @@ System memory in use after: 89.4 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1685.
 Total: 3.325600 ms (FindLiveObjects: 0.598200 ms CreateObjectMapping: 0.237800 ms MarkObjects: 2.358100 ms  DeleteObjects: 0.130100 ms)
 =======
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1626.
+Total: 3.437700 ms (FindLiveObjects: 0.222800 ms CreateObjectMapping: 0.055200 ms MarkObjects: 3.046000 ms  DeleteObjects: 0.111900 ms)
+>>>>>>> Stashed changes
+=======
+- Completed reload, in  1.406 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 88.0 MB.
 System memory in use after: 88.1 MB.
